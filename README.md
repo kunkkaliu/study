@@ -11,4 +11,5 @@
 5. [js的原型和原型链](https://www.jianshu.com/p/be7c95714586)
 6. [js的new操作符到底做了什么？](https://zhuanlan.zhihu.com/p/158640941)
 7. [手动实现Symbol Polyfill](https://zhuanlan.zhihu.com/p/27297604)
+8. [webpack原理解析与实现一个简单的webpack](https://segmentfault.com/a/1190000020353337)
 
