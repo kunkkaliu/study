@@ -12,4 +12,6 @@
 6. [js的new操作符到底做了什么？](https://zhuanlan.zhihu.com/p/158640941)
 7. [手动实现Symbol Polyfill](https://zhuanlan.zhihu.com/p/27297604)
 8. [webpack原理解析与实现一个简单的webpack](https://segmentfault.com/a/1190000020353337)
-
+9. [从零实现webpack热更新HMR](https://juejin.cn/post/6844904020528594957)
+10. [教你怎么使用 webpack3 的 HMR 模块热加载](https://juejin.cn/post/6844903541421654023)
+11. [探秘 React Hot Loader](https://zhuanlan.zhihu.com/p/34193549)
