@@ -17,3 +17,5 @@
 11. [探秘 React Hot Loader](https://zhuanlan.zhihu.com/p/34193549)
 12. [10 分钟理解 BFC 原理](https://zhuanlan.zhihu.com/p/25321647)
 13. [BFC是什么？BFC有什么用？看完全明白](https://www.cnblogs.com/qs-cnblogs/p/12349887.html)
+14. [React.createContext()? 大神们又在作什么妖？](https://zhuanlan.zhihu.com/p/34038469)
+15. [React.js有哪些设计缺陷？](https://www.zhihu.com/question/316425133)
