@@ -19,3 +19,4 @@
 13. [BFC是什么？BFC有什么用？看完全明白](https://www.cnblogs.com/qs-cnblogs/p/12349887.html)
 14. [React.createContext()? 大神们又在作什么妖？](https://zhuanlan.zhihu.com/p/34038469)
 15. [React.js有哪些设计缺陷？](https://www.zhihu.com/question/316425133)
+16. [聊聊js的二进制家族](https://zhuanlan.zhihu.com/p/97768916)
